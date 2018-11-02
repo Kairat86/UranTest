@@ -1,4 +1,4 @@
-package com.uran.activity;
+package com.uran.company.activity;
 
 import android.arch.lifecycle.LiveData;
 import android.arch.lifecycle.ViewModelProviders;
